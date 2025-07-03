@@ -5,8 +5,10 @@ This project builds a BERT-based QA system that extracts answers from a given pa
 ## Features
 - Input: Paragraph + Question
 - Output: Extracted answer
+- Expecteded Answer(F1 score & EM)
 - Model: Pretrained BERT (fine-tuned on SQuAD)
 - Deployment: Streamlit app
+- View Histroy
 
 ## Run the App
 1. Install dependencies:
